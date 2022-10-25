@@ -73,4 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Test Jenkins Webhook Build - ssh
+Test Jenkins Webhook Build - copy files over ssh
